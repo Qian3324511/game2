@@ -21,5 +21,5 @@ index.html   单文件，无依赖，双击就能玩
 ---
 
 同系列另外两个：
-- [game-1 · 遛弯勇者](https://qian3324511.github.io/game-1/)
+- [game1 · 遛弯勇者](https://qian3324511.github.io/game1/)
 - [touhenying · 小气象员·接雨滴](https://qian3324511.github.io/touhenying/)
